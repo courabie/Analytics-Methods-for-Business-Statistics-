@@ -13,15 +13,8 @@ This project analyzes patient data from a Virginia medical center, focusing on p
 ## 🔬 Analytical Framework
 
 ### Primary Models
-1. **Mortality Analysis**
-   - Logistic regression modeling
-   - Prediction of patient mortality risk
-   - Performance validation through ROC analysis
-
-2. **Length of Stay Analysis**
-   - Negative binomial regression
-   - Modeling of hospitalization duration
-   - Assessment of key determining factors
+1. Mortality Analysis
+2. Length of Stay Analysis
 
 ### Statistical Methodology
 The analysis employs three complementary approaches:
