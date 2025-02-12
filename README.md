@@ -39,3 +39,16 @@ The analysis employs three complementary approaches:
    - Systematic testing of variable combinations
    - Identification of significant interactions
    - Integration into final models
+
+## 📁 How to Use This Repository
+
+Each project folder contains:
+- `code.r`: Main R script with statistical analysis 
+- `hospital.txt`: Dataset with 978 patient records from Virginia medical center
+- `Submission_Aliieva.pdf`: Complete project report with detailed methodology and findings
+
+To reproduce the analysis:
+1. Clone the repository
+2. Ensure R and required packages are installed
+3. Run the code.r script
+4. View results in generated outputs
